@@ -19,7 +19,7 @@ Steps are as follow
 ![s-1](img2.png)
 ![s-2](img17.png)
 
-##Select with condition
+## Select with condition
 ![sc-1](img5.png)
 
 ## Delete 
